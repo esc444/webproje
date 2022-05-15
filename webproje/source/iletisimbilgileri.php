@@ -18,6 +18,10 @@ function alert($msg) {
        else {
            
         alert(" Mesaj isteğiniz alınmıştır : İsim : $name  E-mail : $email Numara : $tel Mesajınız : $message ");
+        $dosya = fopen ("iletisim.txt" , 'w'); //dosya oluşturma işlemi
+$yaz=" İsim : $name  E-mail : $email Numara : $tel Mesajınız : $message "; //dosya içine ne yazmak istiyorsanız buraya yazın. $değer
+fwrite ( $dosya , $yaz ) ;
+fclose ($dosya);
 
         header("Refresh: 0; url=iletisim.html");
        }
