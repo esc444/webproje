@@ -21,8 +21,8 @@ CV bölümü ekleyerek bundan önceki eğitim geçmişimden bahsedeceğim.
 
 Memleketim sayfasında Karabük hakkında genel bilgiler vereceğim. Slider kullanarak bazı tarihi ve turistik yerleri ekleyeceğim.
 
-Mirasımız adlı sayfada ise Karabük Demir Çelik'i anlatacağım ve bunun hakkında video koyacağım.
+Mirasımız adlı sayfada ise Karabük Demir Çelik'i anlatacağım ve bunun hakkında fotoğraflar koyacağım.
 
-Kullanıcıya ait bilgilerin girildiği ve bu bilgiler doğruysa 'Hoşgeldiniz (Kullanıcının Adı)' texti veren yanlışsa login sayfasına gönderen Login sayfası yer alacaktır.
+Kullanıcıya ait bilgilerin girildiği ve bu bilgiler doğruysa 'Hoşgeldiniz' texti veren yanlışsa login sayfasına gönderen Login sayfası yer alacaktır.
 
 Form elemanları ve javascript ile iletişim sayfası oluşturacağım.
